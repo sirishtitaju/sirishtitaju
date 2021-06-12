@@ -1,4 +1,4 @@
-### Hi there 👋
+### 
 
 <!--
 **sirishtitaju/sirishtitaju** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<span style="height:50vh; display:flex; justify-content:center; align-items:center;">
+<h1>Hi there 👋</h1>
+</span>
