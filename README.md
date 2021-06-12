@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!-- height:50vh; display:flex; justify-content:center; align-items:center -->
-<body>
+<body style="width:100%, height:50vh;">
 <h1 style="text-align:center">Hi there 👋</h1>
 </span>
 </body>
