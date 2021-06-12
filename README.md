@@ -17,6 +17,27 @@ Here are some ideas to get you started:
 <!-- height:50vh; display:flex; justify-content:center; align-items:center -->
 <body align="center">
 <h1 style="text-align:center">Hi there!👋 I'm Sirish Titaju</h1>
-<h4>Software Enthusiast & Design Maniac👹 </h4>
+<h4>Software Enthusiast & Design Maniac 👹 </h4>
+<img width="300" src="https://cdn2.f-cdn.com/files/download/145365493/MadgascarF.png"></img>
+
+⁍⁍⁍ Professional Skills: <br/>
+0️⃣ Responsive Web Design / Development  <br/>
+1️⃣ Prototyping / Wireframing  <br/>
+2️⃣ Logo / Banner / Poster Design  <br/>
+ 
+⁍⁍⁍ Software Tools:  <br/>
+0️⃣ Adobe Photoshop  <br/>
+1️⃣ Adobe Illustrator / Inkscape  <br/>
+2️⃣ Adobe XD / Figma
+
+
+Here are some ideas to get you started:
+- 🔭 I’m currently working on my <a href="http://sirishtitaju.com.np/" target="_blank">portfolio</a>
+- 🌱 I’m currently learning 7-1 CSS Architecture with Sass
+- 👯 I’m looking to collaborate on Web Design
+- 💬 Ask me about: Web Design | UI/UX 
+- 📫 How to reach me: sirishtitaju@gmail.com
+- ⚡ Fun fact: I love Madagascar 😉 (especially : Penguins..
+. <img width="30" style="position:absolute;" src ="https://media.giphy.com/media/Cmr1OMJ2FN0B2/giphy.gif" style="text-align:center"/> )
 </span>
 </body>
