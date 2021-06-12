@@ -22,7 +22,6 @@ Here are some ideas to get you started:
 #### ⁍⁍⁍  &nbsp;  Professional Skills: <br/>
  &nbsp; 0️⃣ Responsive Web Design / Development  <br/>
  &nbsp; 1️⃣ Prototyping / Wireframing  <br/>
- <br/>
 #### ⁍⁍⁍  &nbsp;  Software Tools:  <br/>
  &nbsp;  0️⃣ Adobe Photoshop, Illustrator, XD 
 <p></p>
