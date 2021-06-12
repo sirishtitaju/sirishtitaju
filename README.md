@@ -36,10 +36,11 @@ Here are some ideas to get you started:
 
 ## Let's Connect ☕
 <div align ="center">
-<a href="https://www.facebook.com"><img width= "40" src="https://img-premium.flaticon.com/png/512/1312/1312139.png?token=exp=1623529049~hmac=8ce77e9b0f7d49d803f9a6b7beba2e08"/> &emsp;&emsp;</a>
-<img width= "40" src="https://img-premium.flaticon.com/png/512/1312/1312139.png?token=exp=1623529049~hmac=8ce77e9b0f7d49d803f9a6b7beba2e08"/> &emsp;&emsp;
-<img width= "40" src="https://img-premium.flaticon.com/png/512/1312/1312139.png?token=exp=1623529049~hmac=8ce77e9b0f7d49d803f9a6b7beba2e08"/> &emsp;&emsp;
-<img width= "40"  src="https://img-premium.flaticon.com/png/512/1312/1312139.png?token=exp=1623529049~hmac=8ce77e9b0f7d49d803f9a6b7beba2e08"/> &emsp;&emsp;
+<a href="https://www.freelancer.com/u/sirishtitaju"><img width= "40"  src="https://uxwing.com/wp-content/themes/uxwing/download/10-brands-and-social-media/freelancer.png"/> &emsp;&emsp;</a>
+<a href="https://www.facebook.com"><img width= "40" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Facebook_colored_svg_copy-512.png"/> &emsp;&emsp;</a>
+<a href="https://www.facebook.com"><img width= "40" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Instagram_colored_svg_1-512.png"/> &emsp;&emsp;</a>
+<a href="https://www.facebook.com"><img width= "40" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-512.png"/> &emsp;&emsp;</a>
+
 </div>
 <img src="https://i.ibb.co/QNYsvcF/bottom.png" alt="bottom" border="0">
 
