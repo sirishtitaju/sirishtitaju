@@ -19,15 +19,15 @@ Here are some ideas to get you started:
 <img src="https://i.ibb.co/VjR6FYJ/top.png" alt="top" border="0">
 
 ## Software Enthusiast & Design Maniac 👹 
-⁍⁍⁍ Professional Skills: <br/>
-0️⃣ Responsive Web Design / Development  <br/>
-1️⃣ Prototyping / Wireframing  <br/>
+#### ⁍⁍⁍  &nbsp;  Professional Skills: <br/>
+ &nbsp; 0️⃣ Responsive Web Design / Development  <br/>
+ &nbsp; 1️⃣ Prototyping / Wireframing  <br/>
  <br/>
-⁍⁍⁍ Software Tools:  <br/>
-0️⃣ Adobe Photoshop, Illustrator, XD 
+#### ⁍⁍⁍  &nbsp;  Software Tools:  <br/>
+ &nbsp;  0️⃣ Adobe Photoshop, Illustrator, XD 
 <p></p>
  
-⁍⁍⁍ Some Facts:
+#### ⁍⁍⁍ &nbsp; Some Facts:
 - 🔭 I’m currently working on my <a href="http://sirishtitaju.com.np/" target="_blank">portfolio</a>
 - 🌱 I’m currently learning 7-1 CSS Architecture with Sass
 - 👯 I’m looking to collaborate on Web Design & Development
@@ -35,9 +35,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I love Madagascar 😉 (especially : Penguins...<img width="30" src ="https://media.giphy.com/media/Cmr1OMJ2FN0B2/giphy.gif"/> ) </p>
 
 ## Let's Connect ☕
-
-<img src="https://i.ibb.co/10BCGxR/bottom.png" alt="bottom" border="0">
-
 <div align ="center">
+<a href="https://www.facebook.com"><img width= "40" src="https://img-premium.flaticon.com/png/512/1312/1312139.png?token=exp=1623529049~hmac=8ce77e9b0f7d49d803f9a6b7beba2e08"/> &emsp;&emsp;</a>
+<img width= "40" src="https://img-premium.flaticon.com/png/512/1312/1312139.png?token=exp=1623529049~hmac=8ce77e9b0f7d49d803f9a6b7beba2e08"/> &emsp;&emsp;
+<img width= "40" src="https://img-premium.flaticon.com/png/512/1312/1312139.png?token=exp=1623529049~hmac=8ce77e9b0f7d49d803f9a6b7beba2e08"/> &emsp;&emsp;
+<img width= "40"  src="https://img-premium.flaticon.com/png/512/1312/1312139.png?token=exp=1623529049~hmac=8ce77e9b0f7d49d803f9a6b7beba2e08"/> &emsp;&emsp;
 </div>
+<img src="https://i.ibb.co/QNYsvcF/bottom.png" alt="bottom" border="0">
+
 <!-- <img src="https://i.ibb.co/Fg18qvf/bottom.png" alt="bottom" border="0"> -->
