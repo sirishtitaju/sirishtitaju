@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!-- height:50vh; display:flex; justify-content:center; align-items:center -->
-<img src="https://i.ibb.co/k3hNxFB/top.png" alt="top" border="0">
+<img src="https://i.ibb.co/7RpCtHN/top.png" alt="top" border="0">
 <h4>Software Enthusiast & Design Maniac 👹 </h4>
 ⁍⁍⁍ Professional Skills: <br/>
 0️⃣ Responsive Web Design / Development  <br/>
