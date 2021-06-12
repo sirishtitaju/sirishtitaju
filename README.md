@@ -15,6 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!-- height:50vh; display:flex; justify-content:center; align-items:center -->
-<span >
-<h1 style="text-align:center;">Hi there 👋</h1>
+<style>
+  body{
+  height:50vh; display:flex; justify-content:center; align-items:center
+  }
+</style>
+ 
+<body>
+<h1>Hi there 👋</h1>
 </span>
+</body>
