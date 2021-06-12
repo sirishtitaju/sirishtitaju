@@ -15,12 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!-- height:50vh; display:flex; justify-content:center; align-items:center -->
-<style>
-  body{
-  height:50vh; display:flex; justify-content:center; align-items:center
-  }
-</style>
- 
 <body>
 <h1>Hi there 👋</h1>
 </span>
