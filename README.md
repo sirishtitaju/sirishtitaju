@@ -37,9 +37,9 @@ Here are some ideas to get you started:
 ## Let's Connect ☕
 <div align ="center">
 <a href="https://www.freelancer.com/u/sirishtitaju"><img width= "40"  src="https://uxwing.com/wp-content/themes/uxwing/download/10-brands-and-social-media/freelancer.png"/> &emsp;&emsp;</a>
-<a href="https://www.facebook.com"><img width= "40" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Facebook_colored_svg_copy-512.png"/> &emsp;&emsp;</a>
-<a href="https://www.facebook.com"><img width= "40" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Instagram_colored_svg_1-512.png"/> &emsp;&emsp;</a>
-<a href="https://www.facebook.com"><img width= "40" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-512.png"/> &emsp;&emsp;</a>
+<a href="https://www.facebook.com/sirish.titaju"><img width= "40" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Facebook_colored_svg_copy-512.png"/> &emsp;&emsp;</a>
+<a href="https://www.instagram.com/sirish.titaju/"><img width= "40" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Instagram_colored_svg_1-512.png"/> &emsp;&emsp;</a>
+<a href="https://www.linkedin.com/in/sirish-titaju-1a95b2195/"><img width= "40" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-512.png"/> &emsp;&emsp;</a>
 
 </div>
 <img src="https://i.ibb.co/QNYsvcF/bottom.png" alt="bottom" border="0">
