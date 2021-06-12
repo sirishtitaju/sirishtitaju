@@ -15,10 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!-- height:50vh; display:flex; justify-content:center; align-items:center -->
-<body align="center">
+<div style="text-align:center">
 <h1 style="text-align:center">Hi there!👋 I'm Sirish Titaju</h1>
 <h4>Software Enthusiast & Design Maniac 👹 </h4>
-<img width="300" src="https://cdn2.f-cdn.com/files/download/145365493/MadgascarF.png"></img>
+<img align="center" width="300" src="https://cdn2.f-cdn.com/files/download/145365493/MadgascarF.png"></img>
+</div> 
 
 ⁍⁍⁍ Professional Skills: <br/>
 0️⃣ Responsive Web Design / Development  <br/>
