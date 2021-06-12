@@ -15,11 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!-- height:50vh; display:flex; justify-content:center; align-items:center -->
-<div style="text-align:center">
-<h1 style="text-align:center">Hi there!👋 I'm Sirish Titaju</h1>
-<h4>Software Enthusiast & Design Maniac 👹 </h4>
-<img align="center" width="300" src="https://cdn2.f-cdn.com/files/download/145365493/MadgascarF.png"></img>
-</div> 
+
+<h1 align="center" style="text-align:center">Hi there!👋 I'm Sirish Titaju</h1>
+<h4 align="center">Software Enthusiast & Design Maniac 👹 </h4>
+<p align="center">
+<img align="center" width="400" src="https://cdn2.f-cdn.com/files/download/145365493/MadgascarF.png"></img>
+</p> 
 
 ⁍⁍⁍ Professional Skills: <br/>
 0️⃣ Responsive Web Design / Development  <br/>
