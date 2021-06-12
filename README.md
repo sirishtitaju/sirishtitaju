@@ -15,8 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!-- height:50vh; display:flex; justify-content:center; align-items:center -->
-
-<h1 align="center" style="text-align:center">Hi there!👋 I'm Sirish Titaju</h1>
+<img src="https://i.ibb.co/CPMHK1d/top.png" alt="top" border="0">
 <h4 align="center">Software Enthusiast & Design Maniac 👹 </h4>
 <p align="center">
 <img align="center" width="400" src="https://cdn2.f-cdn.com/files/download/145365493/MadgascarF.png"></img>
@@ -42,4 +41,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I love Madagascar 😉 (especially : Penguins..
 . <img width="30" style="position:absolute;" src ="https://media.giphy.com/media/Cmr1OMJ2FN0B2/giphy.gif" style="text-align:center"/> )
 </span>
+<img src="https://i.ibb.co/8YM8r0G/bottom.png" alt="bottom" border="0">
 </body>
