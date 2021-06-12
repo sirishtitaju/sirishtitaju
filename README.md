@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!-- height:50vh; display:flex; justify-content:center; align-items:center -->
-<img src="https://i.ibb.co/7RpCtHN/top.png" alt="top" border="0">
+<img src="https://i.ibb.co/7NSWvm4/top.png" alt="top" border="0">
 <h4>Software Enthusiast & Design Maniac 👹 </h4>
 ⁍⁍⁍ Professional Skills: <br/>
 0️⃣ Responsive Web Design / Development  <br/>
@@ -37,5 +37,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I love Madagascar 😉 (especially : Penguins..
 . <img width="30" style="position:absolute;" src ="https://media.giphy.com/media/Cmr1OMJ2FN0B2/giphy.gif" style="text-align:center"/> )
 </span>
-<img src="https://i.ibb.co/wKkdSbV/bottom.png" alt="bottom" border="0">
+<img src="https://i.ibb.co/dJJ5y15/bottom.png" alt="bottom" border="0">
 </body>
