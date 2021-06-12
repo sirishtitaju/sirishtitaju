@@ -17,18 +17,17 @@ Here are some ideas to get you started:
 <!-- height:50vh; display:flex; justify-content:center; align-items:center -->
 <!-- <img src="https://i.ibb.co/7NSWvm4/top.png" alt="top" border="0"> -->
 <img src="https://i.ibb.co/VjR6FYJ/top.png" alt="top" border="0">
+<div align ="left">
 <h4>Software Enthusiast & Design Maniac 👹 </h4>
 ⁍⁍⁍ Professional Skills: <br/>
 0️⃣ Responsive Web Design / Development  <br/>
 1️⃣ Prototyping / Wireframing  <br/>
-2️⃣ Logo / Banner / Poster Design  <br/>
  <br/>
 ⁍⁍⁍ Software Tools:  <br/>
-0️⃣ Adobe Photoshop  <br/>
-1️⃣ Adobe Illustrator / Inkscape  <br/>
-2️⃣ Adobe XD / Figma
-<p></p>
-Here are some ideas to get you started:
+0️⃣ Adobe Photoshop, Illustrator, XD  <br/>
+<p></p><p></p>
+ </div>
+Here are some ideas to get you started:<p></p>
 - 🔭 I’m currently working on my <a href="http://sirishtitaju.com.np/" target="_blank">portfolio</a><p></p>
 - 🌱 I’m currently learning 7-1 CSS Architecture with Sass<p></p>
 - 👯 I’m looking to collaborate on Web Design<p></p>
