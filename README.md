@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-<span style="height:50vh; display:flex; justify-content:center; align-items:center;">
+<!-- height:50vh; display:flex; justify-content:center; align-items:center -->
+<span style="text-align:center;">
 <h1>Hi there 👋</h1>
 </span>
