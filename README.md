@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 -->
 <!-- height:50vh; display:flex; justify-content:center; align-items:center -->
 <body align="center">
-<h1 style="text-align:center">Hi there 👋</h1>
+<h1 style="text-align:center">Hi there!👋 I'm Sirish Titaju</h1>
+<h5>Design Maniac 👹</h5>
 </span>
 </body>
