@@ -20,8 +20,10 @@ Here are some ideas to get you started:
 
 ## Software Enthusiast & Design Maniac 👹 
 #### ⁍⁍⁍  &nbsp;  Professional Skills: <br/>
- &nbsp; 0️⃣ Responsive Web Design / Development  <br/>
- &nbsp; 1️⃣ Prototyping / Wireframing  <br/>
+
+ &nbsp; 0️⃣ SASS, Bootstrap, JS <br/>
+ &nbsp; 1️⃣ Responsive Web Design / Development  <br/>
+ &nbsp; 2️⃣ Prototyping / Wireframing  <br/>
 #### ⁍⁍⁍  &nbsp;  Software Tools:  <br/>
  &nbsp;  0️⃣ Adobe Photoshop, Illustrator, XD 
 <p></p>
