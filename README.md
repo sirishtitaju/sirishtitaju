@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 ## Software Enthusiast & Design Maniac 👹 
 #### ⁍⁍⁍  &nbsp;  Professional Skills: <br/>
 
- &nbsp; 0️⃣ SASS, Bootstrap, Three.JS <br/>
+ &nbsp; 0️⃣ SASS, Bootstrap, Three.JS, GSAP, Barba <br/>
  &nbsp; 1️⃣ Responsive Web Design / Development  <br/>
  &nbsp; 2️⃣ Prototyping / Wireframing  <br/>
 #### ⁍⁍⁍  &nbsp;  Software Tools:  <br/>
