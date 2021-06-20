@@ -22,8 +22,8 @@ Here are some ideas to get you started:
 #### ⁍⁍⁍  &nbsp;  Professional Skills: <br/>
 
  &nbsp; 0️⃣ SASS, Bootstrap, Three.JS, GSAP <br/>
- &nbsp; 1️⃣ Responsive Web Design / Development  <br/>
- &nbsp; 2️⃣ Prototyping / Wireframing  <br/>
+ &nbsp; 1️⃣ Responsive Web Design & Development  <br/>
+ &nbsp; 2️⃣ UI/UX | Prototyping | Wireframing  <br/>
 #### ⁍⁍⁍  &nbsp;  Software Tools:  <br/>
  &nbsp;  0️⃣ Adobe Photoshop, Illustrator, XD 
 <p></p>
