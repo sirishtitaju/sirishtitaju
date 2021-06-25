@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <!-- <img src="https://i.ibb.co/7NSWvm4/top.png" alt="top" border="0"> -->
 <img src="https://i.ibb.co/xg5gtQ1/top.png" alt="top" border="0">
 
-## Front-end Developer & Design Maniac 👹 
+## Freelancer | Front-end Developer 👹 
 #### ⁍⁍⁍  &nbsp;  Professional Skills: <br/>
 
  &nbsp; 0️⃣ SASS, Bootstrap, Materialize, GSAP <br/>
