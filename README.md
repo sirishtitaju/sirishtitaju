@@ -55,11 +55,11 @@ Here are some ideas to get you started:
  </tr>
  <tr>
     <td>
-- 🔭 I’m currently working on my <a href="http://sirishtitaju.com.np/" target="_blank">portfolio</a><br/>
-- 🌱 I’m currently learning 7-1 CSS Architecture with Sass <br/>
-- 👯 I’m looking to collaborate on Web Design & Development <br/>
-- 💬 Ask me about: Web Design & Development | UI/UX <br/>
-- ⚡ Fun fact: I love Madagascar 😉 (esp. Penguins...<img width="30" src ="https://media.giphy.com/media/Cmr1OMJ2FN0B2/giphy.gif"/> ) <br/>
+🔭 I’m currently working on my <a href="http://sirishtitaju.com.np/" target="_blank">portfolio</a><br/>
+🌱 I’m currently learning 7-1 CSS Architecture with Sass <br/>
+👯 I’m looking to collaborate on Web Design & Development <br/>
+💬 Ask me about: Web Design & Development | UI/UX <br/>
+⚡ Fun fact: I love Madagascar 😉 (esp. Penguins.<img width="30" src ="https://media.giphy.com/media/Cmr1OMJ2FN0B2/giphy.gif"/> ) <br/>
  </td>
   <td>
      <img src="https://github-readme-stats.vercel.app/api?username=sirishtitaju&theme=graywhite&show_icons=true&count_private=true" alt="bottom" border="0">
