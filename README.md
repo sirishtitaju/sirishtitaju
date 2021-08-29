@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <!-- <img src="https://i.ibb.co/7NSWvm4/top.png" alt="top" border="0"> -->
 <img src="https://i.ibb.co/VjR6FYJ/top.png" alt="top" border="0">
 
-## Freelancer | Front-end Developer 👹 
+## Freelancer | Front-end Designer 👹 
 #### ⁍⁍⁍ &nbsp; Skills & Tools:
 <table border="0">
  <tr>
