@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 <!-- height:50vh; display:flex; justify-content:center; align-items:center -->
 <!-- <img src="https://i.ibb.co/7NSWvm4/top.png" alt="top" border="0"> -->
-<img src="https://i.ibb.co/xg5gtQ1/top.png" alt="top" border="0">
+<img src="https://i.ibb.co/VjR6FYJ/top.png" alt="top" border="0">
 
 ## Freelancer | Front-end Developer 👹 
 #### ⁍⁍⁍ &nbsp; Skills & Tools:
