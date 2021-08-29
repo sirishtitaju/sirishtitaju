@@ -19,21 +19,53 @@ Here are some ideas to get you started:
 <img src="https://i.ibb.co/xg5gtQ1/top.png" alt="top" border="0">
 
 ## Freelancer | Front-end Developer 👹 
-#### ⁍⁍⁍  &nbsp;  Professional Skills: <br/>
+#### ⁍⁍⁍ &nbsp; Skills & Tools:
+<table border="0">
+ <tr>
+    <td><b style="font-size:30px">Professional Skills</b></td>
+    <td><b style="font-size:30px">Software Tools</b></td>
+ </tr>
+ <tr>
+    <td>
+ &nbsp; 0️⃣ SASS, Bootstrap, Materialize, GSAP <br/>
+ &nbsp; 1️⃣ Responsive Web Design & Development  <br/>
+ &nbsp; 2️⃣ UI/UX | Prototyping | Wireframing  <br/>
+ </td>
+  <td>
+     &nbsp;  0️⃣ Adobe Photoshop, Illustrator, XD 
+  </td>
+ </tr>
+</table>
+
+<!-- #### ⁍⁍⁍  &nbsp;  Professional Skills: <br/>
 
  &nbsp; 0️⃣ SASS, Bootstrap, Materialize, GSAP <br/>
  &nbsp; 1️⃣ Responsive Web Design & Development  <br/>
  &nbsp; 2️⃣ UI/UX | Prototyping | Wireframing  <br/>
 #### ⁍⁍⁍  &nbsp;  Software Tools:  <br/>
  &nbsp;  0️⃣ Adobe Photoshop, Illustrator, XD 
-<p></p>
+<p></p> -->
  
 #### ⁍⁍⁍ &nbsp; Some Facts:
-- 🔭 I’m currently working on my <a href="http://sirishtitaju.com.np/" target="_blank">portfolio</a>
-- 🌱 I’m currently learning 7-1 CSS Architecture with Sass
-- 👯 I’m looking to collaborate on Web Design & Development
-- 💬 Ask me about: Web Design & Development | UI/UX
-- ⚡ Fun fact: I love Madagascar 😉 (especially : Penguins...<img width="30" src ="https://media.giphy.com/media/Cmr1OMJ2FN0B2/giphy.gif"/> ) </p>
+
+<table border="0">
+ <tr>
+    <td><b style="font-size:30px">Facts</b></td>
+    <td><b style="font-size:30px">Github Stats</b></td>
+ </tr>
+ <tr>
+    <td>
+- 🔭 I’m currently working on my <a href="http://sirishtitaju.com.np/" target="_blank">portfolio</a><br/>
+- 🌱 I’m currently learning 7-1 CSS Architecture with Sass <br/>
+- 👯 I’m looking to collaborate on Web Design & Development <br/>
+- 💬 Ask me about: Web Design & Development | UI/UX <br/>
+- ⚡ Fun fact: I love Madagascar 😉 (esp. Penguins...<img width="30" src ="https://media.giphy.com/media/Cmr1OMJ2FN0B2/giphy.gif"/> ) <br/>
+ </td>
+  <td>
+     <img src="https://github-readme-stats.vercel.app/api?username=sirishtitaju&theme=graywhite&show_icons=true&count_private=true" alt="bottom" border="0">
+  </td>
+ </tr>
+</table>
 
 ## Let's Connect ☕
 <div align ="center">
@@ -43,6 +75,8 @@ Here are some ideas to get you started:
 <a href="https://www.linkedin.com/in/sirish-titaju-1a95b2195/"  target ="_blank"><img width= "40" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-512.png"/> &emsp;&emsp;</a>
 
 </div>
+<div>
+</div>
 <img src="https://i.ibb.co/QNYsvcF/bottom.png" alt="bottom" border="0">
 
-<!-- <img src="https://i.ibb.co/Fg18qvf/bottom.png" alt="bottom" border="0"> -->
+
