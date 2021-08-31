@@ -43,7 +43,9 @@ Here are some ideas to get you started:
  &nbsp; 1️⃣ Responsive Web Design & Development  <br/>
  &nbsp; 2️⃣ UI/UX | Prototyping | Wireframing  <br/>
 #### ⁍⁍⁍  &nbsp;  Software Tools:  <br/>
- &nbsp;  0️⃣ Adobe Photoshop, Illustrator, XD 
+ &nbsp;  0️⃣ Adobe Photoshop <br/>
+ &nbsp;  1️⃣ Adobe Illustrator <br/>
+ &nbsp;  2️⃣ Adobe XD <br/>
 <p></p> -->
  
 #### ⁍⁍⁍ &nbsp; Some Facts:
