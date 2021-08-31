@@ -32,7 +32,9 @@ Here are some ideas to get you started:
  &nbsp; 2️⃣ UI/UX | Prototyping | Wireframing  <br/>
  </td>
   <td>
-     &nbsp;  0️⃣ Adobe Photoshop, Illustrator, XD 
+      &nbsp;  0️⃣ Adobe Photoshop <br/>
+ &nbsp;  1️⃣ Adobe Illustrator <br/>
+ &nbsp;  2️⃣ Adobe XD <br/>
   </td>
  </tr>
 </table>
