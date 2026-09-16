@@ -59,7 +59,7 @@
 - ⚡ Fun fact: I play chess on Lichess in my downtime
  </td>
   <td>
-     <b>Published Paper</b><br/>
+     <b>Published Paper: <a href="https://link.springer.com/chapter/10.1007/978-981-99-0047-3_21" target="_blank">10.1007/978-981-99-0047-3_21<a/></b><br/>
      <em>Springer MISP 2022</em><br/><br/>
      Nepali Voice-Based Gender Classification Using MFCC and GMM<br/><br/>
      Designed an acoustic classification pipeline achieving <b>94.16% accuracy</b> on a native speech dataset.<br/><br/>
