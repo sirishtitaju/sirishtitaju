@@ -56,7 +56,6 @@
 - 🌱 I’m currently learning applied ML systems and RAG architectures<br/>
 - 👯 I’m looking to collaborate on intelligent web systems and applied AI projects<br/>
 - 💬 Ask me about: frontend architecture, web performance optimization, and speech ML<br/>
-- 🎯 Preparing for thesis-based MSc / PhD graduate studies in Computer Science (Fall 2027)<br/>
 - ⚡ Fun fact: I play chess on Lichess in my downtime
  </td>
   <td>
